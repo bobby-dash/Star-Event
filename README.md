@@ -1,5 +1,5 @@
 # Star-Event
-<body> <body bgcolor='red'>
+<body bgcolor='red'>
   
 </body>
 helllo this is bobby here
